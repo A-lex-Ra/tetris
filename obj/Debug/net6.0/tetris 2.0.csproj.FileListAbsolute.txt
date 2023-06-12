@@ -1,0 +1,30 @@
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\tetris 2.0.csproj.AssemblyReference.cache
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\tetris 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\tetris 2.0.AssemblyInfoInputs.cache
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\tetris 2.0.AssemblyInfo.cs
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\tetris 2.0.csproj.CoreCompileInputs.cache
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\bin\Debug\net6.0\tetris 2.0.exe
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\bin\Debug\net6.0\tetris 2.0.deps.json
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\bin\Debug\net6.0\tetris 2.0.runtimeconfig.json
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\bin\Debug\net6.0\tetris 2.0.dll
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\bin\Debug\net6.0\tetris 2.0.pdb
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\tetris 2.0.dll
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\refint\tetris 2.0.dll
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\tetris 2.0.pdb
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\tetris 2.0.genruntimeconfig.cache
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\tetris 2.0\obj\Debug\net6.0\ref\tetris 2.0.dll
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\bin\Debug\net6.0\tetris 2.0.exe
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\bin\Debug\net6.0\tetris 2.0.deps.json
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\bin\Debug\net6.0\tetris 2.0.runtimeconfig.json
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\bin\Debug\net6.0\tetris 2.0.dll
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\bin\Debug\net6.0\tetris 2.0.pdb
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\tetris 2.0.csproj.AssemblyReference.cache
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\tetris 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\tetris 2.0.AssemblyInfoInputs.cache
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\tetris 2.0.AssemblyInfo.cs
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\tetris 2.0.csproj.CoreCompileInputs.cache
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\tetris 2.0.dll
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\refint\tetris 2.0.dll
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\tetris 2.0.pdb
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\tetris 2.0.genruntimeconfig.cache
+C:\Users\MoreIT\Desktop\STORAGE\Cumulative\VS Projects\tetris 2.0\obj\Debug\net6.0\ref\tetris 2.0.dll
